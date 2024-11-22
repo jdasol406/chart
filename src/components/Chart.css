@@ -1,0 +1,13 @@
+#chart-body {
+  display: flex;
+}
+
+#regionList-body {
+  width: 20%;
+  border: 1px solid;
+}
+
+#contents-body {
+  width: 80%;
+  border: 1px solid;
+}
