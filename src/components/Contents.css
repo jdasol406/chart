@@ -3,11 +3,11 @@
 }
 
 #graph-body {
-  border: 1px solid;
   height: 50%;
+  background-color: red;
 }
 
 #dataList-body {
-  border: 1px solid;
-  height: 49.5%;
+  height: 50%;
+  background-color: blue;
 }
