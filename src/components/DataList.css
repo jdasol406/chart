@@ -1,0 +1,9 @@
+#data-table {
+  border: 1px solid;
+}
+
+#data-table th, td{
+  border: 1px solid;
+  width: 100px;
+  text-align: center;
+}

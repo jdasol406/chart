@@ -4,11 +4,11 @@
 }
 
 #graph-info {
-  width: 400px;
-  height: 300px;
+  width: 410px;
+  height: 316px;
   margin-left: 50px;
-  background-color: #e2e2e2;
-  border-radius: 5%;
+  background-color: #efefef;
+  border-radius: 20px;
 }
 
 #graph-info-text {
