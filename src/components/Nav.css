@@ -1,0 +1,20 @@
+#nav-body {
+  display: flex;
+  align-items: center;
+  background-color: #FDFDFD;
+}
+
+#logo {
+  width: 20%;
+}
+
+#pageList {
+  width: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+#pageList div {
+  width: 100px;
+  margin-top: 4px;
+}

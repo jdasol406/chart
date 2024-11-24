@@ -1,0 +1,16 @@
+#graph-body {
+  display: flex;
+  align-items: center;
+}
+
+#graph-info {
+  width: 400px;
+  height: 300px;
+  margin-left: 50px;
+  background-color: #e2e2e2;
+  border-radius: 5%;
+}
+
+#graph-info-text {
+  padding: 30px;
+}

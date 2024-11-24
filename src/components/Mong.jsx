@@ -9,7 +9,7 @@ const Mong = () => {
     <>
         <Nav />
         <Chart />
-        <Footer />
+        {/* <Footer /> */}
     </>
   )
 }
